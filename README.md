@@ -1,7 +1,7 @@
 # Developer
 
 ### Education
-Qaiwan International Universty - Softwre Engneering
+Qaiwan International Universty - Software Engneering
 
 ### Work Experience
 N/A
