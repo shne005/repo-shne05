@@ -17,7 +17,7 @@ Me and my group created a project which is is a group web development project fo
 - Turkish (basic)
 - arabic(basic)
   
-  ### skils
+### skils
 
 Skills
  • Web Development: Experience in designing responsive, user-friendly websites using HTML, CSS, and JavaScript, with a focus on UI/UX for projects like a hospital website.
