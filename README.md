@@ -24,9 +24,9 @@ Skills
  • Programming: Proficient in C++ and java, with strong problem-solving and coding logic.
  • Tools: Skilled with Visual Studio Code,  and design tools like Figma and Canva.
  • Soft Skills: creative, detail-oriented, and adept at time management.
+ 
  ### courses
  
-
 Technology Information System assigment
 Poster assigment: “Will AI Replace Software Engineering?”
 Created a poster discussing AI’s impact on software engineering, focusing on automation, development processes, and the evolving role of engineers.
