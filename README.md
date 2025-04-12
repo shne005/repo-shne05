@@ -7,9 +7,11 @@ Qaiwan International Universty - Software Engneering
 N/A
 
 ### Projects
-Hospital website project
-(february,2025)
-Me and my group created a project which is is a group web development project focused on designing a modern and user-friendly website for a hospital. The website includes essential pages such as the Home Page, Forget Password Page, and several other key interfaces to improve user experience and accessibility. Our goal is to create a platform that allows patients to easily access hospital services, information, and manage their accounts.
+project title: Hospital website 
+(february,2025) which is is a group web development project focused on designing a modern and user-friendly website for a hospital. The website includes essential pages such as the Home Page, Forget Password Page, and several other key interfaces to improve user experience and accessibility. Our goal is to create a platform that allows patients to easily access hospital services, information, and manage their accounts.
+Project Title: Social Media Awareness Video
+This is a group project focused on raising awareness about the dangers and negative effects of social media. The video highlights how excessive use of social media can lead to addiction, distraction, and even accidents. Through real-life scenarios and storytelling, we aim to educate viewers—especially young people—about the importance of using social media responsibly and being aware of its impact on mental health and daily life.
+
 
 ### Langauge
 - English
@@ -25,23 +27,7 @@ Skills
  • Tools: Skilled with Visual Studio Code,  and design tools like Figma and Canva.
  • Soft Skills: creative, detail-oriented, and adept at time management.
  
- ### courses
- 
-Technology Information System assigment
-Poster assigment: “Will AI Replace Software Engineering?”
-Created a poster discussing AI’s impact on software engineering, focusing on automation, development processes, and the evolving role of engineers.
-Skills Gained:
- • Research and analysis of emerging technologies
- • Visual communication and poster design
- • Public speaking and presenting technical topics
 
-Integrity and Anti-Corruption Course
-Poster Project and presentation: “Rule of Media in Exposing Corruption”
-Designed a poster highlighting the role of media in exposing corruption and promoting transparency.
-Skills Gained:
- • Understanding of media’s influence on societal issues
- • Collaboration and teamwork
- • Clear presentation of complex social topics
 
  
   
