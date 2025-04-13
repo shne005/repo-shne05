@@ -26,8 +26,12 @@ Skills
  • Programming: Proficient in C++ and java, with strong problem-solving and coding logic.
  • Tools: Skilled with Visual Studio Code,  and design tools like Figma and Canva.
  • Soft Skills: creative, detail-oriented, and adept at time management.
- 
 
+
+
+ ### Courses
+  *TIS:*
+  Poster Assignment: AI
 
  
   
