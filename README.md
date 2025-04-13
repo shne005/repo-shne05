@@ -28,21 +28,13 @@ This is a group project focused on raising awareness about the dangers and negat
 
 
  ### Course
-  TIS:
-  Poster Assignment: AI
-This is a poster we created as part of our [Technology Information System] course to explore the impact of Artificial Intelligence (AI) on the future of software engineering.
-Key Points from the Poster:
- • AI is advancing rapidly and can automate many tasks like code generation, debugging, and testing.
- • However, AI lacks creativity, problem-solving skills, and human intuition, which are essential for software engineering.
- • Instead of replacing software engineers, AI is more likely to assist them, making development faster and more efficient.
- 
- inegrity and anti corruption:
- This is a poster we created as part of our [Integrity and Anti-Corruption] course. It focuses on how media—especially investigative journalism and digital platforms—play a key role in revealing corruption and holding people in power accountable.
+  Technology Information System (TIS): Will AI Replace Software Engineers?
+This poster explores the impact of Artificial Intelligence (AI) on the future of software engineering. While AI can automate tasks like coding, debugging, and testing, it still lacks human creativity and problem-solving skills. Rather than replacing engineers, AI is expected to assist them, making the development process more efficient.
 
-Key Points from the Poster:
- • Media acts as a watchdog, uncovering illegal or unethical activities in government and organizations.
- • Social media and independent platforms give people a voice and help spread awareness quickly.
- • Challenges include censorship, fake news, and political pressure, but responsible journalism can make a real difference.
+Integrity and Anti-Corruption: The Role of Media in Exposing Corruption
+This poster highlights the media’s critical role in uncovering corruption. Investigative journalism and digital platforms act as watchdogs, exposing unethical behavior and empowering the public. Despite challenges like censorship and misinformation, responsible media plays a vital role in promoting transparency and accountability.
+
+
   
 
 
