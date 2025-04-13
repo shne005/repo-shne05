@@ -28,6 +28,7 @@ This is a group project focused on raising awareness about the dangers and negat
 
 
  ### Course
+ 
   Technology Information System (TIS): Will AI Replace Software Engineers?
 This poster explores the impact of Artificial Intelligence (AI) on the future of software engineering. While AI can automate tasks like coding, debugging, and testing, it still lacks human creativity and problem-solving skills. Rather than replacing engineers, AI is expected to assist them, making the development process more efficient.
 
