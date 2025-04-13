@@ -29,8 +29,8 @@ Skills
 
 
 
- ### Courses
-  *TIS:*
+ ### Course
+  TIS:
   Poster Assignment: AI
 
  
