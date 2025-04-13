@@ -27,13 +27,7 @@ This is a group project focused on raising awareness about the dangers and negat
  • Soft Skills: creative, detail-oriented, and adept at time management.
 
 
- ### Course
- 
-  Technology Information System (TIS): Will AI Replace Software Engineers?
-This poster explores the impact of Artificial Intelligence (AI) on the future of software engineering. While AI can automate tasks like coding, debugging, and testing, it still lacks human creativity and problem-solving skills. Rather than replacing engineers, AI is expected to assist them, making the development process more efficient.
 
-Integrity and Anti-Corruption: The Role of Media in Exposing Corruption
-This poster highlights the media’s critical role in uncovering corruption. Investigative journalism and digital platforms act as watchdogs, exposing unethical behavior and empowering the public. Despite challenges like censorship and misinformation, responsible media plays a vital role in promoting transparency and accountability.
 
 
   
