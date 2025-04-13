@@ -21,21 +21,30 @@ This is a group project focused on raising awareness about the dangers and negat
   
 ### skils
 
-Skills
  • Web Development: Experience in designing responsive, user-friendly websites using HTML, CSS, and JavaScript, with a focus on UI/UX for projects like a hospital website.
  • Programming: Proficient in C++ and java, with strong problem-solving and coding logic.
  • Tools: Skilled with Visual Studio Code,  and design tools like Figma and Canva.
  • Soft Skills: creative, detail-oriented, and adept at time management.
 
 
-
  ### Course
   TIS:
   Poster Assignment: AI
-
+This is a poster we created as part of our [Technology Information System] course to explore the impact of Artificial Intelligence (AI) on the future of software engineering.
+Key Points from the Poster:
+ • AI is advancing rapidly and can automate many tasks like code generation, debugging, and testing.
+ • However, AI lacks creativity, problem-solving skills, and human intuition, which are essential for software engineering.
+ • Instead of replacing software engineers, AI is more likely to assist them, making development faster and more efficient.
  
+ inegrity and anti corruption:
+ This is a poster we created as part of our [Integrity and Anti-Corruption] course. It focuses on how media—especially investigative journalism and digital platforms—play a key role in revealing corruption and holding people in power accountable.
+
+Key Points from the Poster:
+ • Media acts as a watchdog, uncovering illegal or unethical activities in government and organizations.
+ • Social media and independent platforms give people a voice and help spread awareness quickly.
+ • Challenges include censorship, fake news, and political pressure, but responsible journalism can make a real difference.
   
-  
+
 
 
   
