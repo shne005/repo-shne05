@@ -24,7 +24,7 @@ This is a group project focused on raising awareness about the dangers and negat
  • Web Development: Experience in designing responsive, user-friendly websites using HTML, CSS, and JavaScript, with a focus on UI/UX for projects like a hospital website.
  • Programming: Proficient in C++ and java, with strong problem-solving and coding logic.
  • Tools: Skilled with Visual Studio Code,  and design tools like Figma and Canva.
- • Soft Skills: creative, detail-oriented, and adept at time management.
+ • Soft Skills: creative, detail-oriented, and adept at time management. 
 
 
 
